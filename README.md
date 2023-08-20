@@ -81,6 +81,10 @@ git clone https://github.com/Ndzenyuy/Emart_webapp.git
  In our browser, we can paste the public IP of our EC2 instance. It'll load the dashboard
  ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/homepage.png)
  We can register and browse through the app functionalities
- ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/homepage.png)
-
+ ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/login.png)
+ ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/dashboard.png)
+ ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/shopnow_dashboard.png)
+ ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/sold_articles.png)
+ 
+ 
 
