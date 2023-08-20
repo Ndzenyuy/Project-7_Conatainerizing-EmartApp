@@ -1,6 +1,9 @@
 # Project: Containerizing EMARTapp Using docker
 
 This project aims at dockerising an e-commerce webapp made up of three microservice built in Angular, NodeJS and Java. Nginix is used as the gateway api to proxy the requests depending on the services requested. 
+
+## Architecture
+![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/EMART%20artchitecture.jpg)
 	
 ## Steps
  ### Clone the source code from github
@@ -46,12 +49,12 @@ We first need to verify that ubuntu user has been added to the docker group, ssh
 ```
 id
 ```
-!()[]
+![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/Screenshot%20from%202023-08-20%2020-59-17.png)
 next verify docker compose installation
 ```
 docker-compose --version
 ```
-!()[]
+![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/docker-compose_version.png)
 
 ### Fetch source code
 Clone our project repo
@@ -76,10 +79,8 @@ git clone https://github.com/Ndzenyuy/Emart_webapp.git
  
  ### Tests
  In our browser, we can paste the public IP of our EC2 instance. It'll load the dashboard
- !()[]
- We can register
-  !()[]
- and browse through the app functionalities
-  !()[]
-  !()[]
+ ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/homepage.png)
+ We can register and browse through the app functionalities
+ ![](https://github.com/Ndzenyuy/Emart_webapp/blob/main/images/homepage.png)
+
 
