@@ -1,11 +1,11 @@
 # Project: Containerizing EMARTapp Using docker
 
-	This project aims at dockerising an e-commerce webapp made up of three microservice built in Angular, NodeJS and Java. Nginix is used as the gateway api to proxy the requests depending on the services requested. 
+This project aims at dockerising an e-commerce webapp made up of three microservice built in Angular, NodeJS and Java. Nginix is used as the gateway api to proxy the requests depending on the services requested. 
 	
 ## Steps
  ### Clone the source code from github
  ```
- git clone https://github.com/devopshydclub/emartapp.git
+ git clone https://github.com/Ndzenyuy/Emart_webapp.git
  ```
  
  ### Launch one EC2 instance with the following configurations
@@ -56,7 +56,7 @@ docker-compose --version
 ### Fetch source code
 Clone our project repo
 ```
-git clone https://github.com/devopshydclub/emartapp.git
+git clone https://github.com/Ndzenyuy/Emart_webapp.git
 ```
  Now cd into emartapp
  
