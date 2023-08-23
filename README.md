@@ -1,4 +1,4 @@
-# Project: Containerizing EMARTapp Using docker
+# Project-7: Containerizing EMARTapp Using docker
 
 This project aims at dockerising an e-commerce webapp made up of three microservice built in Angular, NodeJS and Java. Nginix is used as the gateway api to proxy the requests depending on the services requested. 
 
